@@ -5,6 +5,9 @@ public class AddTwoDigit {
     void show(){
         System.out.println(this.c);
     }
+    void again(){
+        System.out.println(c);
+    }
 
     public static void main(String[] args) {
         AddTwoDigit addTwoDigit = new AddTwoDigit();
